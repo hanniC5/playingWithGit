@@ -1,3 +1,3 @@
 $(funtion() {
-    <console className="log"></console>
+    console.log(so great)
 });
